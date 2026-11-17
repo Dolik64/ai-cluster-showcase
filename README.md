@@ -2,7 +2,7 @@
 
 **Deploying a 70B language model on a shared university GPU cluster.**
 
-[Architecture & walkthrough](docs/demo.md) · [Evidence & status](docs/evidence.md) · [Česky](README.cs.md) · [All projects](https://github.com/Dolik64)
+[Architecture & walkthrough](docs/demo.md) · [Evidence & status](docs/evidence.md) · [All projects](https://github.com/Dolik64)
 
 ## What I set up
 

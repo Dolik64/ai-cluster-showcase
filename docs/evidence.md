@@ -2,7 +2,7 @@
 
 [Project](../README.md) · [Walkthrough](demo.md)
 
-This presentation was assembled on **17 November 2026** from the existing `cvut_mle_server` materials and the related chat **“Spuštění AI Na Serverech”**, including terminal output from October 2026. Chat guidance alone is not treated as proof that a step succeeded. No fresh cluster deployment or performance test was run for this showcase.
+This presentation was assembled on **17 November 2026** from the existing `cvut_mle_server` materials and the related chat **“Running AI on Servers”**, including terminal output from October 2026. Chat guidance alone is not treated as proof that a step succeeded. No fresh cluster deployment or performance test was run for this showcase.
 
 | Claim | Evidence reviewed | Interpretation |
 | --- | --- | --- |

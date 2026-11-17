@@ -1,6 +1,6 @@
 # Architecture & deployment walkthrough
 
-[Project](../README.md) · [Český popis](../README.cs.md) · [Evidence](evidence.md)
+[Project](../README.md) · [Evidence](evidence.md)
 
 ## Documented single-node workflow
 
